@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KacyLogitech
+- 👋 Hi, I’m Kacy
 - 👀 I’m interested in all about software
 - 🌱 I’m currently learning rust
 - 📫 How to reach me email:kacyquan@gmail.com
